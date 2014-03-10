@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Overview
 ========
 
@@ -70,4 +69,3 @@ chef-repo
 =========
 
 My chef repository
->>>>>>> 108757c9a03afe0f29a86d09cb58451e48e3c47f
